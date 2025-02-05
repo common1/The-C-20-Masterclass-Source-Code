@@ -22,3 +22,7 @@ c++20
 
 Start: 1:55:58
 
+## 03.FirstSteps/3.4ErrorsWarnings
+
+Start: 2:01:57
+
