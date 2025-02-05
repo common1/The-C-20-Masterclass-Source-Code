@@ -1,0 +1,32 @@
+## Install
+
+## See also
+
+### C++ Programming Course - Beginner to Advanced
+https://www.youtube.com/watch?v=8jLOx1hD3_o&t=272s
+https://github.com/rutura/The-C-20-Masterclass-Source-Code
+
+## Install
+
+### Install homebrew
+
+https://docs.brew.sh/Homebrew-on-Linux
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+echo >> /home/ubuntuuser/.bashrc
+    echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/ubuntuuser/.bashrc
+    eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+### Install compilers
+
+sudo apt-get install gcc
+sudo apt-get install g++
+sudo apt-get install gdb
+
+sudo apt-get install clang
+
+### Online compilers
+
+https://wandbox.org/
+
